@@ -1,4 +1,4 @@
-# The Ultimate preparation strategy for coding interviews
+# The Ultimate Preparation Strategy For Coding Interviews
 
 "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."-Abraham Lincoln
 
