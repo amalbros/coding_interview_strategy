@@ -28,3 +28,5 @@ School of AI Kollam presents a webinar on ' The Ultimate Preparation Strategy fo
 •Tips to get better at coding
 •Resource suggestions
 •Commonly asked Os,Dbms and Cs fundamental questions.
+
+Do star the repo if you find it useful
